@@ -1,6 +1,5 @@
 ## Olá me chamo Daniel 
 
-- 📱meu contato: +55 61 99453-1388
 - 👨 meu email: daniel.comercial0981@gmail.com
 - 📚 Aluno da Faculdade de tecnologia Senac
 - 👨‍💻 Desenvolvedor Full Stack
