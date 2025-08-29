@@ -14,7 +14,7 @@
 
 <div style="display: inline-block"> <br>
 
-  <img src="https://skillicons.dev/icons?i=linux,php,py,react,docker,java,laravel " />
+  <img src="https://skillicons.dev/icons?i=linux,php,py,react,docker,java,laravel,django,c " />
   
 </div>
 
