@@ -15,7 +15,10 @@ jobs:
           github_user_name: DanielG2602
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.gif
+          snake_color: "#00BFFF"
+          background: "#1e1e1e"
+          grid_size: 20
 
       - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
