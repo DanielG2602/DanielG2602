@@ -32,4 +32,4 @@ Minhas ferramentas principais, com foco em:
 
 </div>
 
-![Snake animation](https://github.com/DanielG2602/DanielG2602/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/DanielG2602/DanielG2602/blob/output/github-contribution-grid-snake.svg)
