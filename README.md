@@ -31,5 +31,3 @@ Minhas ferramentas principais, com foco em:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielG2602&layout=compact&langs_count=16&theme=default">
 
 </div>
-
-![Snake animation](https://github.com/DanielG2602/DanielG2602/blob/output/github-contribution-grid-snake.svg)
