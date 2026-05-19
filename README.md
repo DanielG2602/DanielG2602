@@ -26,8 +26,4 @@ Minhas ferramentas principais, com foco em:
 
 <a href="https://github.com/DanielG2602">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielG2602&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DanielG2602/github-readme-stats#gh-light-mode-only">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielG2602&layout=compact&langs_count=16&theme=default">
-
 </div>
