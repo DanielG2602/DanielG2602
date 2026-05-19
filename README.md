@@ -27,12 +27,12 @@
 ### // GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielG2602&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielG2602&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielG2602&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -40,10 +40,9 @@
 ### // Contact
 
 <p>
-  📧 <a href="mailto:daniel@email.com">daniel@email.com</a> &nbsp;·&nbsp;
-  💼 <a href="https://linkedin.com/in/daniel">LinkedIn</a> &nbsp;·&nbsp;
-  🐦 <a href="https://twitter.com/daniel_dev">@daniel_dev</a> &nbsp;·&nbsp;
-  🌐 <a href="https://daniel.dev">daniel.dev</a>
+  📧 <a href="mailto:danielgsantos.dev@email.com">danielgsantos.dev@gmail.com</a> &nbsp;·&nbsp;
+  💼 <a href="https://www.linkedin.com/in/daniel-gomes-632316288/">LinkedIn</a> &nbsp;·&nbsp;
+  🌐 <a href="https://www.danielg2602.dev">www.danielg2602.dev</a>
 </p>
 
 ---
