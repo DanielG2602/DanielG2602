@@ -1,0 +1,41 @@
+<svg width="680" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="220" rx="12" fill="#0a0c10"/>
+  <rect x="0.5" y="0.5" width="679" height="219" rx="11.5" fill="none" stroke="#21262d"/>
+
+  <text x="24" y="30" font-family="monospace" font-size="9" fill="#58a6ff" letter-spacing="3">STACK</text>
+  <line x1="70" y1="26" x2="656" y2="26" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- Row 1 -->
+  <rect x="16" y="44" width="204" height="52" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="0.5"/>
+  <circle cx="36" cy="70" r="5" fill="#777BB4"/>
+  <text x="48" y="74" font-family="monospace" font-size="12" font-weight="bold" fill="#e6edf3">PHP</text>
+  <text x="48" y="88" font-family="monospace" font-size="10" fill="#6e7681">Laravel · Symfony</text>
+
+  <rect x="238" y="44" width="204" height="52" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="0.5"/>
+  <circle cx="258" cy="70" r="5" fill="#ED8B00"/>
+  <text x="270" y="74" font-family="monospace" font-size="12" font-weight="bold" fill="#e6edf3">Java</text>
+  <text x="270" y="88" font-family="monospace" font-size="10" fill="#6e7681">Spring Boot · Maven</text>
+
+  <rect x="460" y="44" width="204" height="52" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="0.5"/>
+  <circle cx="480" cy="70" r="5" fill="#3776AB"/>
+  <text x="492" y="74" font-family="monospace" font-size="12" font-weight="bold" fill="#e6edf3">Python</text>
+  <text x="492" y="88" font-family="monospace" font-size="10" fill="#6e7681">FastAPI · Django</text>
+
+  <!-- Row 2 -->
+  <rect x="16" y="112" width="204" height="52" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="0.5"/>
+  <circle cx="36" cy="138" r="5" fill="#2496ED"/>
+  <text x="48" y="142" font-family="monospace" font-size="12" font-weight="bold" fill="#e6edf3">Docker</text>
+  <text x="48" y="156" font-family="monospace" font-size="10" fill="#6e7681">Compose · CI/CD</text>
+
+  <rect x="238" y="112" width="204" height="52" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="0.5"/>
+  <circle cx="258" cy="138" r="5" fill="#F05032"/>
+  <text x="270" y="142" font-family="monospace" font-size="12" font-weight="bold" fill="#e6edf3">Git</text>
+  <text x="270" y="156" font-family="monospace" font-size="10" fill="#6e7681">GitHub · GitLab</text>
+
+  <rect x="460" y="112" width="204" height="52" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="0.5"/>
+  <circle cx="480" cy="138" r="5" fill="#019733"/>
+  <text x="492" y="142" font-family="monospace" font-size="12" font-weight="bold" fill="#e6edf3">Vim</text>
+  <text x="492" y="156" font-family="monospace" font-size="10" fill="#6e7681">btw</text>
+
+  <text x="340" y="205" font-family="monospace" font-size="9" fill="#484f58" text-anchor="middle" letter-spacing="1">— made with coffee, Vim and Stack Overflow —</text>
+</svg>

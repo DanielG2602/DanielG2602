@@ -1,0 +1,22 @@
+<svg width="680" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="120" rx="12" fill="#0a0c10"/>
+  <rect x="0.5" y="0.5" width="679" height="119" rx="11.5" fill="none" stroke="#21262d"/>
+
+  <text x="24" y="30" font-family="monospace" font-size="9" fill="#58a6ff" letter-spacing="3">CONTACT</text>
+  <line x1="87" y1="26" x2="656" y2="26" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- Email -->
+  <rect x="16" y="44" width="204" height="60" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="0.5"/>
+  <text x="32" y="68" font-family="monospace" font-size="9" fill="#6e7681" letter-spacing="1">EMAIL</text>
+  <text x="32" y="86" font-family="monospace" font-size="10" fill="#c9d1d9">danielgsantos.dev@gmail.com</text>
+
+  <!-- LinkedIn -->
+  <rect x="238" y="44" width="204" height="60" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="0.5"/>
+  <text x="254" y="68" font-family="monospace" font-size="9" fill="#6e7681" letter-spacing="1">LINKEDIN</text>
+  <text x="254" y="86" font-family="monospace" font-size="10" fill="#58a6ff">daniel-gomes-632316288</text>
+
+  <!-- Website -->
+  <rect x="460" y="44" width="204" height="60" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="0.5"/>
+  <text x="476" y="68" font-family="monospace" font-size="9" fill="#6e7681" letter-spacing="1">WEBSITE</text>
+  <text x="476" y="86" font-family="monospace" font-size="10" fill="#58a6ff">www.danielg2602.dev</text>
+</svg>

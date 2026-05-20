@@ -1,0 +1,37 @@
+<svg width="680" height="190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="190" rx="12" fill="#0a0c10"/>
+  <rect x="0.5" y="0.5" width="679" height="189" rx="11.5" fill="none" stroke="#21262d"/>
+
+  <text x="24" y="30" font-family="monospace" font-size="9" fill="#58a6ff" letter-spacing="3">LANGUAGES</text>
+  <line x1="105" y1="26" x2="656" y2="26" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- PHP 45% -->
+  <text x="24" y="62" font-family="monospace" font-size="11" fill="#8b949e">PHP</text>
+  <rect x="90" y="52" width="540" height="6" rx="3" fill="#21262d"/>
+  <rect x="90" y="52" width="243" height="6" rx="3" fill="#777BB4"/>
+  <text x="642" y="62" font-family="monospace" font-size="10" fill="#6e7681" text-anchor="end">45%</text>
+
+  <!-- Java 35% -->
+  <text x="24" y="94" font-family="monospace" font-size="11" fill="#8b949e">Java</text>
+  <rect x="90" y="84" width="540" height="6" rx="3" fill="#21262d"/>
+  <rect x="90" y="84" width="189" height="6" rx="3" fill="#ED8B00"/>
+  <text x="642" y="94" font-family="monospace" font-size="10" fill="#6e7681" text-anchor="end">35%</text>
+
+  <!-- SQL 10% -->
+  <text x="24" y="126" font-family="monospace" font-size="11" fill="#8b949e">SQL</text>
+  <rect x="90" y="116" width="540" height="6" rx="3" fill="#21262d"/>
+  <rect x="90" y="116" width="54" height="6" rx="3" fill="#00758f"/>
+  <text x="642" y="126" font-family="monospace" font-size="10" fill="#6e7681" text-anchor="end">10%</text>
+
+  <!-- Python 7% -->
+  <text x="24" y="158" font-family="monospace" font-size="11" fill="#8b949e">Python</text>
+  <rect x="90" y="148" width="540" height="6" rx="3" fill="#21262d"/>
+  <rect x="90" y="148" width="38" height="6" rx="3" fill="#3776AB"/>
+  <text x="642" y="158" font-family="monospace" font-size="10" fill="#6e7681" text-anchor="end">7%</text>
+
+  <!-- Shell 3% -->
+  <text x="24" y="180" font-family="monospace" font-size="11" fill="#8b949e">Shell</text>
+  <rect x="90" y="170" width="540" height="6" rx="3" fill="#21262d"/>
+  <rect x="90" y="170" width="16" height="6" rx="3" fill="#4EAA25"/>
+  <text x="642" y="180" font-family="monospace" font-size="10" fill="#6e7681" text-anchor="end">3%</text>
+</svg>
