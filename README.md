@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Daniel</h1>
-<p align="center"><em>// Back-end Developer · Building things that actually work</em></p>
+<h1 align="center">Daniel Gomes</h1>
+<p align="center"><sub>Back-end Developer · Brazil</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -11,37 +11,35 @@
 
 ---
 
-### // Tech Stack
+### stack
 
-| Language | Frameworks / Tools |
-|---|---|
-| 🟣 PHP | Laravel · Symfony · Composer |
-| 🟠 Java | Spring Boot · Maven · Gradle |
-| 🔵 Python | FastAPI · Django · SQLAlchemy |
-| 🔴 Git | GitHub · GitLab · CI/CD |
-| 🐳 Docker | Containers · Compose |
-| 🟢 Vim | btw |
-
----
-
-### // Languages
-
-![PHP](https://img.shields.io/badge/PHP-85%25-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-70%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-80%25-00758f?style=flat-square&logo=mysql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-55%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+| | Language | Frameworks |
+|---|---|---|
+| 🟣 | PHP | Laravel · Symfony · Composer |
+| 🟠 | Java | Spring Boot · Maven · Gradle |
+| 🔵 | Python | FastAPI · Django · SQLAlchemy |
+| 🐳 | Docker | Compose · CI/CD |
+| 🔴 | Git | GitHub · GitLab |
+| 🟢 | Vim | btw |
 
 ---
 
-### // Contact
+### languages
 
-<p>
-  📧 <a href="mailto:danielgsantos.dev@gmail.com">danielgsantos.dev@gmail.com</a> &nbsp;·&nbsp;
-  💼 <a href="https://www.linkedin.com/in/daniel-gomes-632316288/">LinkedIn</a> &nbsp;·&nbsp;
-  🌐 <a href="https://www.danielg2602.dev">www.danielg2602.dev</a>
-</p>
+![PHP](https://img.shields.io/badge/PHP-45%25-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-35%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-10%25-00758f?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-3%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-<p align="center"><sub>— made with ☕ + Vim + Stack Overflow —</sub></p>
+### contact
+
+📧 [danielgsantos.dev@gmail.com](mailto:danielgsantos.dev@gmail.com) &nbsp;·&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/daniel-gomes-632316288/) &nbsp;·&nbsp;
+🌐 [www.danielg2602.dev](https://www.danielg2602.dev)
+
+---
+
+<p align="center"><sub>— made with coffee, Vim and Stack Overflow —</sub></p>
