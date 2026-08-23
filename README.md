@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Fundador da Korven</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Java+%2F+Spring+Boot;PHP+%2F+Laravel;Automa%C3%A7%C3%A3o+e+integra%C3%A7%C3%A3o+de+sistemas;Construindo+a+Korven+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Java+%2F+Spring+Boot;PHP+%2F+Laravel;Automa%C3%A7%C3%A3o+e+integra%C3%A7%C3%A3o+de+sistemas;Construindo+o+Futuro" alt="Typing SVG" />
 </p>
 
 <p align="center">
